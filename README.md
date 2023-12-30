@@ -51,7 +51,7 @@ Getting Started:
 
 
 .Clone the repository to your local machine:
-Copy code --- https://github.com/Sasanka1424/JAVA-Level-School.git
+Copy code --- [https://github.com/Sasanka1424/JAVA-Level-School.git](https://github.com/Sasanka1424/Java.git)
 
 .Explore the different sections and start with the basics.
 
