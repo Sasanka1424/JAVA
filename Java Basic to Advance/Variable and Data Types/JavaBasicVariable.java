@@ -11,3 +11,5 @@ public class JavaBasicVariable {
         System.out.println("Value of variable name: " + name);
     }
 }
+
+
