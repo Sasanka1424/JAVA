@@ -12,3 +12,5 @@ public class JavaBasic2 {
         System.out.print("Hello World!\n"); 
     }
 }
+
+
