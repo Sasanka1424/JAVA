@@ -1,11 +1,14 @@
-/* Q2. Sum of a & b. 
-   [a = 10 ; b = 5.]
+/* Q1. Print Pattern 
+   ****
+   ***
+   **
+   *
  */
-public class JavaBasicProblemQuestion1{
-    public static void main(String args[]) {
-        int a = 10;
-        int b = 5;
-         int sum = (a + b);
-         System.out.println("Sum of a and b is " + sum + ".");
+public class JavaBasicProblemQuestion1 {
+    public static void main(String args[]){
+        System.out.println("****");
+        System.out.println("***");
+        System.out.println("**");
+        System.out.println("*");
     }
 }
