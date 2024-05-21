@@ -21,3 +21,5 @@ public class JavaBasicDataTypes {
         System.out.println("Boolean bool = " + bool);
     }
 }
+
+
