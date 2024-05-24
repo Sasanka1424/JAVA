@@ -1,4 +1,4 @@
-/* Q1. What will be the output of the following Java code that demonstrates the use of unary operators 
+/* Q2. What will be the output of the following Java code that demonstrates the use of unary operators 
 (post-increment, pre-increment, post-decrement, and pre-decrement)? */
 public class UnaryOperators {
     // main function
