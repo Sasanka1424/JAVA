@@ -1,6 +1,5 @@
-import java.util.Scanner;
-
 /* Q4. Print largest of 3 numbers using if-elseif statement. */
+import java.util.Scanner;
 public class ProblemQuestion4 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in); // Create a Scanner object for reading input
