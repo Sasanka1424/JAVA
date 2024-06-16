@@ -1,4 +1,4 @@
-/*How function works. */
+/*How function works With parameter. */
 public class DemoCodeExample {
 
     // Function that adds two integers and returns the result
