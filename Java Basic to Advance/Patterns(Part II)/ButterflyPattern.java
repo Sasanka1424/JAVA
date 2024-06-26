@@ -1,3 +1,4 @@
+/*Q5.BUTTERFLY pattern */
 import java.util.Scanner;
 
 public class ButterflyPattern {
