@@ -1,3 +1,4 @@
+/*Demonstrate how to take input, output and update   */
 import java.util.Scanner;
 
 public class ArrayExample {
