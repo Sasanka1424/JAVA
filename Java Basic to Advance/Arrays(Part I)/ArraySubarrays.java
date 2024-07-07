@@ -3,9 +3,11 @@ import java.util.Scanner;
 
 public class ArraySubarrays {
 
-    // Function to print all subarrays of the array
+    // Function to print all subarrays of the array and count the total subarrays
     public static void printSubarrays(int[] array) {
         int n = array.length;
+        int totalSubarrays = 0;
+        
         for (int start = 0; start < n; start++) {
             for (int end = start; end < n; end++) {
                 // Print subarray from start to end
@@ -13,9 +15,13 @@ public class ArraySubarrays {
                     System.out.print(array[k] + " ");
                 }
                 System.out.println();
+                totalSubarrays++;
             }
             System.out.println();
         }
+        
+        // Print the total number of subarrays
+        System.out.println("Total number of subarrays: " + totalSubarrays);
     }
 
     public static void main(String[] args) {
