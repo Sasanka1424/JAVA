@@ -1,7 +1,7 @@
-/*Q1. Performing Max Subarray Sum. */
+/*Q1. Performing Max Subarray Sum. (Brute Force) */
 import java.util.Scanner;
 
-public class MaxSubarraySum {
+public class MaxSubarraySumBrute {
 
     // Function to find the maximum subarray sum using brute force
     public static int maxSubarraySum(int[] array) {
